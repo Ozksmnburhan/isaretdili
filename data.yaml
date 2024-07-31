@@ -1,0 +1,6 @@
+path: C:/Users/burha/Downloads/RealTimeObjectDetection-main/RealTimeObjectDetection-main/Tensorflow/workspace/images/
+train: train/images
+val: test/images
+
+nc: 5
+names: ['merhaba','evet','hayir','tesekkurler','seni seviyorum']
